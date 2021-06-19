@@ -22,3 +22,7 @@ Dataset: https://bit.ly/34SRn3b
 #### TASK-6: Create the Decision Tree classifier and visualize it graphically.  
 The purpose is if we feed any new data to this classifier, it would be able to 
 predict the right class accordingly. Dataset : https://bit.ly/3kXTdox
+
+#### TASK-7:  Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and  sentimental analysis of news headlines 
+Download historical stock prices from finance.yahoo.com  
+Download textual (news) data from https://bit.ly/36fFPI6
